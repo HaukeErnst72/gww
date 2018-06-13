@@ -1,0 +1,92 @@
+body {
+	background-color:#ffffff;
+	color:#000000;
+	font-size:12pt;
+	font-family:Helvetica,Arial;
+}
+td {
+	font-size:10pt;
+	font-family:Helvetica,Arial;
+}
+p.bendit_header {
+	background-color:#ffffff;
+	color:#555555;
+	font-size:9pt;
+	font-family:Helvetica,Arial;
+}
+
+body.grey {
+	background-color:#eeeeee;
+}
+
+a:link {
+	color:#555555;
+}
+
+a:visited {
+	color:#555555;
+}
+
+a:active {
+	color:#FF9911;
+}
+
+b.bendit {
+	color:#220088;
+}
+
+h1 {
+	font-size:180%;
+	line-height:25pt; 
+}
+
+h2 {
+	font-size:150%;
+}
+
+h3 {
+	font-size:120%;
+}
+
+h3.bendit {
+	font-size:100%;
+	text-align:center;
+	background-color:#FF9911;
+	padding-left:5pt;
+	padding-right:5pt;
+}
+h1.bendit {
+	font-size:180%;
+	text-align:center;
+	background-color:#FF9911;
+	padding-left:5pt;
+	padding-right:5pt;
+}
+
+
+
+.row_highlight {  background-color: #FF9911}
+.row_normal {  background-color: #FFFFFF}
+td.highlight {  background-color: #FF9911; border: 1px }
+td.matrix_open
+{
+	border-right: 1px solid;
+	border-top: 1px solid;
+	font-size: 14pt;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+	background-color: #ffffff;
+}
+td.matrix_predef
+{
+	border-right: 1px solid;
+	border-top: 1px solid;
+	font-size: 14pt;
+	border-left: 1px solid;
+	color: #eeeeee;
+	border-bottom: 1px solid;
+	background-color: #220088;
+}
+th { background-color: #220088; border: 1px  ; color: #eeeeee}
+
+DIV.page { page-break-after: always }
